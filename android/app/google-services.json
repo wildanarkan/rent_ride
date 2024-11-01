@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936171168732",
+    "project_id": "rent-ride-81781",
+    "storage_bucket": "rent-ride-81781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936171168732:android:a30d4fd0039db913e46519",
+        "android_client_info": {
+          "package_name": "com.wildanarkan.rent_ride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXEcqW77zuIaUyu0_zXBf2O_rHf4s3JYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

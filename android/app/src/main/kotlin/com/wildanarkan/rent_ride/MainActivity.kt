@@ -1,4 +1,4 @@
-package com.example.rent_ride
+package com.wildanarkan.rent_ride
 
 import io.flutter.embedding.android.FlutterActivity
 
