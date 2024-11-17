@@ -5,7 +5,7 @@ import 'package:d_session/d_session.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:rent_ride/models/accounnt.dart';
 
-class AuthSources {
+class AuthSource {
   static Future<String> signUp(
     String name,
     String email,
