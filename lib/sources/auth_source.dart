@@ -3,7 +3,7 @@ import 'dart:developer';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:d_session/d_session.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:rent_ride/models/accounnt.dart';
+import 'package:rent_ride/models/account.dart';
 
 class AuthSource {
   static Future<String> signUp(
